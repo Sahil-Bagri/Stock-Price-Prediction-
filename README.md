@@ -4,7 +4,7 @@ This Streamlit app predicts whether a stock price will go UP or DOWN using:
 - Random Forest
 - XGBoost
 - Neural Network
-- Ensemble (Soft Voting)
+- Ensemble (Voting)
 
 ## Features
 - Market-based feature engineering
@@ -13,5 +13,4 @@ This Streamlit app predicts whether a stock price will go UP or DOWN using:
 - Interactive Streamlit UI
 
 ## How to Run
-bash
 streamlit run app.py
