@@ -1,6 +1,6 @@
 # 📈 Stock Price Movement Predictor
-[![](https://stock-price-movement.streamlit.app)
-This Streamlit app predicts whether a stock price will go UP or DOWN using:
+Copy this code and check it => https://stock-price-movement.streamlit.app
+# This Streamlit app predicts whether a stock price will go UP or DOWN using:
 - Random Forest
 - XGBoost
 - Neural Network
