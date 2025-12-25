@@ -1,5 +1,5 @@
 # 📈 Stock Price Movement Predictor
-[![](https://stock-price-movement.streamlit.app/)
+[![](https://stock-price-movement.streamlit.app)
 This Streamlit app predicts whether a stock price will go UP or DOWN using:
 - Random Forest
 - XGBoost
